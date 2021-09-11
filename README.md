@@ -6,13 +6,13 @@
 	<head>
 		<body>
 			<h1 align='center'><img src='https://lh3.googleusercontent.com/3AwGtYF6DC06C1Hq70I535r8gj65qkSNTZKXu-y1pibi7SfprBzQyGmUndH8MgUO_OX4U0vfOIoKccg-xdGTmXluS8j5XYegw8l9hhkP0FcVLVSOI8-jLWTV2Muj_FzF0soyb-MlIw=w2400' height='260' width='220' alt='Isha Mysty' class='wdn-stretch rounded-cornes'/></h1>		
-		<h2 align='center'>Let`s play with codes!</h2></p>
+		<h2 align='center'>LeT`S pLaY wItH cOdEs!</h2></p>
 			
-  <p>🔭 I’m currently working on ... A blog</p>
+  <p>🔭 I’m currently working on ... <b>A blog</b></p>
     https://www.dogsyap.us/</p>
- 🌱 I’m currently learning ... ML/DL</p>
-👯 I’m looking to collaborate on ... Back End Web Designing</p>
-💬 Ask me about ... SEO/Digital Marketing</p>
+ 🌱 I’m currently learning ... <b>ML/DL</b></p>
+👯 I’m looking to collaborate on ... <b>Back End Web Designing</b></p>
+💬 Ask me about ... <b>SEO/Digital Marketing</b></p>
 📫 How to reach me: ...Via social media</p>
 		<h2>Follow me on social media</h2>
     <h2>Linkdin</h2>
