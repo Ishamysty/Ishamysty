@@ -4,7 +4,7 @@
          "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 	<head>
-		 <meta name="google-site-verification" content="google-site-verification: google8f354cf9ddae3994.html">
+		 <meta name="google-site-verification" content="6aFCMrLGjEaOg7SycfTCjdZtkjg8512mb1cg84lUlI0"/>
 		<body>
 			<h1 align='center'><img src='https://lh3.googleusercontent.com/3AwGtYF6DC06C1Hq70I535r8gj65qkSNTZKXu-y1pibi7SfprBzQyGmUndH8MgUO_OX4U0vfOIoKccg-xdGTmXluS8j5XYegw8l9hhkP0FcVLVSOI8-jLWTV2Muj_FzF0soyb-MlIw=w2400' height='280' width='220' alt='Isha Mysty'></h1>		
 		<h2 align='center'>LeT`S pLaY wItH cOdEs!</h2></p>
